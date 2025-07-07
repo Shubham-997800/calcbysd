@@ -47,7 +47,7 @@ button {
     height: 90px;
     margin: 40px 10px 10px 0px;
     font-size: 30px;
-    background-color: rgba(0, 0, 0, 0.765);
+    background-color: hwb(0 21% 79%);
     color: forestgreen;
     border: 2px solid rgb(37, 37, 37);
     box-shadow: 1px 1px 10px rgb(67, 67, 67);
