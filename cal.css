@@ -83,6 +83,7 @@ input:focus {
         padding: 10px;
         justify-content: center;
         align-items: center;
+        background-color: aliceblue;
     }
 
     #box {
@@ -97,6 +98,7 @@ input:focus {
         -moz-border-radius: 50px;
         -ms-border-radius: 50px;
         -o-border-radius: 50px;
+        background-color: rgb(58, 58, 58);
     }
 
     input {
